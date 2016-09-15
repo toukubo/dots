@@ -1,0 +1,3 @@
+NODESPATH=$DBPATH/nodes/
+export NODESPATH
+

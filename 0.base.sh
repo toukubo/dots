@@ -1,0 +1,1 @@
+export DBPATH=$HOME/Dropbox/

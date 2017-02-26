@@ -1,3 +1,2 @@
-ALFRED_HOME=$HOME/Dropbox/warez/bin
+ALFRED_HOME=$GDPATH/warez/bin
 export ALFRED_HOME
-

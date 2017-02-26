@@ -1,4 +1,4 @@
-MINIBUFFERPATH=$DBPATH/warez/bin/minibuffer/
+MINIBUFFERPATH=$GDPATH/warez/bin/minibuffer/
 export MINIBUFFERPATH
-MB=$HOME/Desktop/temp.md
+MB=$GDPATH/mb/temp.md
 export MB

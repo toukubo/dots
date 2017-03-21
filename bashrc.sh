@@ -1,5 +1,5 @@
 function gr() {
-   command grep $1 -r . --color
+   command grep $1 -r . -1 --color
 }
 
 function now?(){

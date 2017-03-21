@@ -1,3 +1,2 @@
 touch ~/.bash.d/.now
-source $DBPATH/nodes/nowenv
-
+# source $DBPATH/nodes/nowenv
